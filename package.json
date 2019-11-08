@@ -20,7 +20,6 @@
     "type": "git",
     "url": "git+https://github.com/linkshare/plus.garden.fixtures-mysql.git"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/linkshare/plus.garden.fixtures-mysql/issues"
   },
